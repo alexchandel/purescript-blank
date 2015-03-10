@@ -1,0 +1,26 @@
+{
+  "name": "purescript-blank",
+  "version": "0.0.1",
+  "description": "A blank PureScript package.",
+  "dependencies": {
+    "gulp": "^3.8.11",
+    "gulp-purescript": "^0.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node gulpfile.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexchandel/purescript-blank.git"
+  },
+  "keywords": [
+    "example"
+  ],
+  "author": "alexchandel",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/alexchandel/purescript-blank/issues"
+  },
+  "homepage": "https://github.com/alexchandel/purescript-blank"
+}

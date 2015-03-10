@@ -1,0 +1,21 @@
+{
+  "name": "purescript-blank",
+  "version": "0.0.1",
+  "homepage": "https://github.com/alexchandel/purescript-blank",
+  "authors": [
+    "Alex Chandel <alexchandel@gmail.com>"
+  ],
+  "description": "A blank PureScript project.",
+  "keywords": [
+    "example"
+  ],
+  "license": "Unlicense",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "output"
+  ]
+}
